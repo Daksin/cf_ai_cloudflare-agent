@@ -69,12 +69,12 @@ Open it in your browser.
 
 
 ## Technologies Used
--Cloudflare Workers
--Cloudflare Workers AI
--Durable Objects
--SQLite (via Durable Objects)
--React
--Zod
+- Cloudflare Workers
+- Cloudflare Workers AI
+- Durable Objects
+- SQLite (via Durable Objects)
+- React
+- Zod
 
 ## Authored by:
 Dakshit Singhal
